@@ -1,4 +1,8 @@
 # Cifar Image Reconstruction using Autoencoder Models
+<head>
+<title>Example.com homepage</title>
+<meta name="google-site-verification" content="CnOhGvL8V-J3lWZLdhDg6lMgBfj2ZOUAhHhcem-aO2w" />
+</head>
 Take 1000 images from CIFAR10. Then, given a pair of images from CIFAR10 𝑥1 and 𝑥2, build a
 network that can return both images given their average ```(𝑥1+𝑥2)/2``` as the only input. The design of
 the architecture and of the input-output mapping is your choice.
